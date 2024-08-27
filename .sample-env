@@ -1,0 +1,6 @@
+# .env
+
+URL=xxxx
+
+USER_EMAIL='yyyyy'
+USER_PASSWORD='zzzz'
